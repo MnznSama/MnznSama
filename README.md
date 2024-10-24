@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=python&logoColor=ffffff)](https://reactjs.org/)
+[![Python](https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff)](#)
 ![](https://github-readme-stats.vercel.app/api?username=MnznSama&show_icons=true&theme=transparent)
