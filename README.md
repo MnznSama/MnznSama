@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently studying on SDJZU. 📕
 - 🌱 I’m currently majoring in Software engineering. o.O
-- ⚡ Fun fact: Furry! and Gaming(Minecraft&Naraka&VALORANT). ❤
+- ⚡ Fun fact:Gaming(Minecraft&Naraka&VALORANT). ❤
         #But...Actually I’m really bad in these games! :(
 - 🍉 I'm a beginner in CTF, and I would be very happy if you could help me.
 - 🎯 Misc & Web I Love :)
