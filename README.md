@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 - 🍉 I'm a beginner in CTF, and I would be very happy if you could help me.
 - 🎯 Misc & Web I Love :)
       
-I can only use a **little** [![Python](https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff)](#)
+I can only use a **little** [![Python](https://img.shields.io/badge/Python%20IDLE-3776AB?logo=python&logoColor=fff)][![Java](https://img.shields.io/badge/Python%20IDLE-3776AB?logo=java&logoColor=fff)](#)
 
 ![](https://github-readme-stats.vercel.app/api?username=MnznSama&show_icons=true&theme=transparent)
